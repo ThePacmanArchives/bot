@@ -8,7 +8,7 @@ figure out yourself. what you're really gonna want is unblacklister.py though.
 ight so. put unblacklister.py in a folder with a .rbxlx file\
 - windows instructions:\
 type this into ur command line\
-```bat
+```
 py unblacklister.py <UR FILE NAME LIKE lol.rbxlx> true
-```\
+```
 boom! unblacklisted!
