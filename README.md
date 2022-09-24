@@ -11,7 +11,7 @@ type this into ur command line
 ```
 py unblacklister.py <UR FILE NAME LIKE lol.rbxlx> true
 ```
-boom! unblacklisted!\
+boom! unblacklisted!
 
 - linux instructions:\
 same as windows, but replace py with python3
