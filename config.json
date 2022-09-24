@@ -1,0 +1,11 @@
+{
+	"discordBotToken": "token here",
+	"discordBotClientId": "ur bot client id",
+	"originalGuildId": "guildid itll work in",
+	"replyEmojiId": "make reply emoji and put its id here",
+	"replyContinuedEmojiId": "make reply continued emoji and put its id here",
+	"loadingEmojiId": "make a loading emoji id and put its id in here",
+	"checkmarkEmojiId": "☑️",
+	"crossEmojiId": "❌",
+	"buyerRoleId": "roleid needed to use bot here"
+}
