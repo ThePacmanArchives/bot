@@ -1,3 +1,4 @@
+[![Working](https://img.shields.io/badge/working-partial-yellow)](https://example.com/)                    
 # bot
 Pacman Softworks unblacklister bot, archived because I quit condos and also because this is pretty much patched (I don't know for sure)
 
